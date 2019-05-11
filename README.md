@@ -1,6 +1,6 @@
 # Working Women and Caste in India
 
-This repository contains code for the paper "Working Women and Caste in India: A Study of Social Disadvantage using Feature Attribution" by Kuhu Joshi and Chaitanya K. Joshi, prsented at the [ICLR 2019 AI for Social Good Workshop](https://aiforsocialgood.github.io/iclr2019/).
+This repository contains code for the paper ["Working Women and Caste in India: A Study of Social Disadvantage using Feature Attribution"](https://arxiv.org/abs/1905.03092) by Kuhu Joshi and Chaitanya K. Joshi, prsented at the [ICLR 2019 AI for Social Good Workshop](https://aiforsocialgood.github.io/iclr2019/).
 
 Women belonging to the socially disadvantaged caste-groups in India have historically been engaged in labour-intensive, blue-collar work. 
 We study whether there has been any change in the ability to predict a woman’s work-status and work-type based on her caste by interpreting machine learning models using the [SHAP feature attribution framework](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27). 
