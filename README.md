@@ -55,7 +55,9 @@ source activate working-women-env
 ```
 4. Install dependencies and Jupyter Lab (for using notebooks).
 ```
-conda install --yes --file requirements.txt
+conda install numpy==1.15.4 pandas==0.23.4 matplotlib==3.0.2 scikit-learn==0.20.2 joblib==0.13.1
+pip install lightgbm
+pip install shap
 conda install -c conda-forge jupyterlab
 ```
 
@@ -63,6 +65,7 @@ conda install -c conda-forge jupyterlab
 
 Notebooks provided for each of our experiments can be run and modified using Jupyter Lab.
 ```
+source activate working-women-env  # Make sure the correct conda environment is active
 cd working-women  # Make sure you are in the project directory
 jupyter lab       # Launch Jupyter Lab in a browser
 ```
