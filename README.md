@@ -40,7 +40,7 @@ Overview of important files/directories:
 
 In a nutshell, the repository must be set up by installing Python 3.6.8 and the exact package versions in `requirements.txt` using Anaconda or Pip.
 
-Step-by-step guide for local installation using a Terminal (Mac/Linux) or Git Bash (Windows):
+Step-by-step guide for local installation using a Terminal (macOS/Linux) or Git Bash (Windows):
 
 1. Install [Anaconda 3](https://www.anaconda.com/) for managing Python packages and environments.
 2. Launch Terminal/Bash and clone the repository (type the commands below into Terminal). 
